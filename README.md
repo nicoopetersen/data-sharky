@@ -24,6 +24,8 @@ cp .env.example .env   # y poné tu DUNE_API_KEY
 python scripts/dune_helper.py   # smoke test
 ```
 
+> Para instalar la skill `analista-cripto` y el cerebro en otra PC, ver **[INSTALL.md](INSTALL.md)**.
+
 ## Notas
 - Requiere `DUNE_API_KEY` (nunca commiteada; `.env` está en `.gitignore`).
 - Metodología y limitaciones detalladas en el reporte. **No es asesoramiento financiero.**
