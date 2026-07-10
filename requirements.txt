@@ -1,0 +1,14 @@
+dune-client>=1.7.0
+pandas>=2.0
+numpy
+polars
+plotly
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+duckdb
+pyarrow
+python-dotenv
+jupyter

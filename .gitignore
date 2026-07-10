@@ -1,0 +1,22 @@
+# Secretos — NUNCA commitear
+.env
+.env.*
+*.key
+
+# Data cacheada (pesada)
+data/
+*.parquet
+*.csv
+
+# Reports pesados generados
+reports/*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
